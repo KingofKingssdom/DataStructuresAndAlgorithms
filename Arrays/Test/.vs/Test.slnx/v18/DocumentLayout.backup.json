@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "E:\\Learn\\DSA\\Arrays\\Test\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{461CDAFF-61A0-4508-B75A-7F94F1DE414A}|Test\\Test.csproj|e:\\learn\\dsa\\arrays\\test\\test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{461CDAFF-61A0-4508-B75A-7F94F1DE414A}|Test\\Test.csproj|solutionrelative:test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7626DA57-9734-418B-8A67-D48CA73B54A8}|Bai15\\Bai15.csproj|e:\\learn\\dsa\\arrays\\test\\bai15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7626DA57-9734-418B-8A67-D48CA73B54A8}|Bai15\\Bai15.csproj|solutionrelative:bai15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Learn\\DSA\\Arrays\\Test\\Test\\Program.cs",
-              "RelativeDocumentMoniker": "Test\\Program.cs",
-              "ToolTip": "E:\\Learn\\DSA\\Arrays\\Test\\Test\\Program.cs",
-              "RelativeToolTip": "Test\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "E:\\Learn\\DSA\\Arrays\\Test\\Bai15\\Program.cs",
+              "RelativeDocumentMoniker": "Bai15\\Program.cs",
+              "ToolTip": "E:\\Learn\\DSA\\Arrays\\Test\\Bai15\\Program.cs*",
+              "RelativeToolTip": "Bai15\\Program.cs*",
+              "ViewState": "AgIAAK4AAAAAAAAAAAAIwLsAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-09T00:38:27.855Z",
+              "WhenOpened": "2026-07-09T06:16:13.079Z",
               "EditorCaption": ""
             }
           ]
