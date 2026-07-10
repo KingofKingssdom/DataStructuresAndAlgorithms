@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Bai01/Bai01.csproj" />
+  <Project Path="Bai02/Bai02.csproj" />
+  <Project Path="Test/Test.csproj" />
+</Solution>

@@ -14,5 +14,6 @@
   <Project Path="Bai13/Bai13.csproj" Id="7fcf42f4-f00f-42fe-b6ab-d995da8a4d77" />
   <Project Path="Bai14/Bai14.csproj" Id="8eab51d6-8c9a-4699-b000-9296627d3629" />
   <Project Path="Bai15/Bai15.csproj" Id="7626da57-9734-418b-8a67-d48ca73b54a8" />
+  <Project Path="Bai16/Bai16.csproj" Id="e97dd0eb-edb3-46b2-976f-ec2fd0b52ec0" />
   <Project Path="Test/Test.csproj" />
 </Solution>
